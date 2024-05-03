@@ -1,6 +1,9 @@
 # Pokedex Região de Kanto
 Este é um projeto de uma Pokedex da região de Kanto, onde você pode explorar informações sobre diferentes Pokémon. Ele utiliza JavaScript puro para fazer requisições à PokeAPI, HTML para a estrutura da página e CSS para estilização básica.
 
+https://github.com/Lais-lfs/js-developer-pokedex/assets/80365142/1ca2255f-dcb5-4cec-b743-9e788d871d7b
+
+
 ## 💻 Funcionalidades:
 - **Lista de Pokémon:** Visualize uma lista de Pokémon com seus nomes, números de identificação, tipos e imagens.
 - **Detalhes do Pokémon:** Clique em um Pokémon na lista para ver mais detalhes, como tipo, altura, peso e habilidades.
